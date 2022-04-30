@@ -1,3 +1,3 @@
 #DEMO
 
-This is a project for practicing Git and Github
+This is a project for practicing Git and Github.
